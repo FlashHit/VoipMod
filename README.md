@@ -7,7 +7,7 @@ You can set the PlayerVoipLevel (Squad, Team, Disabled).<br>
 - If it is set to Squad then just squad.<br>
 - And if it is set to Disabled then you won't join any Voip Channel.<br>
 
-You can adjust some settings with BetterIngameAdmin:
+You can adjust some settings with [BetterIngameAdmin](https://github.com/FlashHit/BetterIngameAdmin):
  - Player VoIP Level
  - Default VoIP volume
  - (Un)mute players via scoreboard actions
