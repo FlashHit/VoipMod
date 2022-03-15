@@ -1,0 +1,10 @@
+{
+	"Name": "VoipMod",
+	"Authors": [ "Flash_Hit" ],
+	"Description": "Enables VoIP for Squad and Team.",
+	"Version": "1.0.0",
+	"HasVeniceEXT": true,
+	"Dependencies": {
+		"veniceext": "^1.0.0"
+	}
+}
